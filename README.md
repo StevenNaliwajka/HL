@@ -13,27 +13,21 @@ Click on a section below for more details.
 ---
 
 
+## Services Overview
+
+### Web
+- Frontend
+- Data Plotter  
+
+### EdgeGate
+- Nginx  
+- CertBot  
+
+### Hardware
+- NASDeployment
+
+### Utilities
+- Uploader  
+- Downloader  
+- Status  
 - Load Balancing
-- <details>
-    <summary>Web</summary>
-
-    - Frontend  
-    - DataPlotter  
-
-  </details>
-- <details>
-    <summary>EdgeGate</summary>
-
-    - Nginx  
-    - CertBot 
-
-  </details>
-- <details>
-    <summary>Hardware</summary>
-
-    - DeployNas
-
-  </details>
-- Uploader
-- Downloader
-- Status
