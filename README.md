@@ -15,19 +15,8 @@ Click on a section below to expand for more details.
 <details>
   <summary>Homelab</summary>
 
-  - [Load Balancing](#load-balancing)
-  - [Web](#web)
-  - [Reverse Proxy](#reverse-proxy)
+  - Load Balancing
+  - Web
+  - Reverse Proxy
 
 </details>
-
----
-
-## Load Balancing
-Content for load balancing goes here.
-
-## Web
-Content for web services goes here.
-
-## Reverse Proxy
-Content for reverse proxy setup goes here.
