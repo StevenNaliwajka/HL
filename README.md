@@ -8,15 +8,24 @@ Ideally a way to config base my work to benefit everyone.
 # Project Documentation
 
 This repository contains documentation for various components.  
-Click on a section below to expand for more details.
+Click on a section below for more details.
 
 ---
 
-<details>
-  <summary>Homelab</summary>
 
-  - Load Balancing
-  - Web
-  - Reverse Proxy
+- Load Balancing
+- <details>
+    <summary>Web</summary>
 
-</details>
+    - Frontend  
+    - DataPlotter  
+
+  </details>
+- EdgeGate
+- <details>
+    <summary>Hardware</summary>
+
+    - DeployNas
+
+  </details>
+  
