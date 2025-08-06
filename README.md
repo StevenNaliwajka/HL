@@ -5,13 +5,29 @@ HomeLab
 Ideally a way to config base my work to benefit everyone.
 
 
+# Project Documentation
+
+This repository contains documentation for various components.  
+Click on a section below to expand for more details.
+
+---
+
 <details>
-  <summary>Click to expand</summary>
+  <summary>Homelab</summary>
 
-  This content is hidden until the dropdown is expanded.
+  - [Load Balancing](#load-balancing)
+  - [Web](#web)
+  - [Reverse Proxy](#reverse-proxy)
 
-  - You can put **Markdown** inside here.
-  - Even lists, images, or code blocks.
+</details>
 
-```python
-print("Hello inside dropdown!")
+---
+
+## Load Balancing
+Content for load balancing goes here.
+
+## Web
+Content for web services goes here.
+
+## Reverse Proxy
+Content for reverse proxy setup goes here.
