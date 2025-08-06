@@ -21,11 +21,19 @@ Click on a section below for more details.
     - DataPlotter  
 
   </details>
-- EdgeGate
+- <details>
+    <summary>EdgeGate</summary>
+
+    - Nginx  
+    - CertBot 
+
+  </details>
 - <details>
     <summary>Hardware</summary>
 
     - DeployNas
 
   </details>
-  
+- Uploader
+- Downloader
+- Status
