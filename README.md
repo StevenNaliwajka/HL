@@ -27,36 +27,37 @@ This design allows HL to centrally manage multiple distributed nodes, while each
 
 The HL ecosystem is composed of module repositories grouped by category:
 
-### Web
+### Web [DoneSomethingSimilar](https://github.com/StevenNaliwajka/KSU-AnalysisNode)
 
 * `Plotter`
 * `Uploader`
 * `Downloader`
 * `Status`
 
-### Edge
+### Edge 
 
-* `NginxManager`
-* `Certbot`
-* `DynamicDNS`
+* `NginxManager` [Finished but not parced](https://github.com/StevenNaliwajka/HL-EdgeGate)
+* `Certbot` [Finished but not parced](https://github.com/StevenNaliwajka/HL-EdgeGate)
+* `DynamicDNS` [Finished but not parced](https://github.com/StevenNaliwajka/DynamicDNSManager)
 
 ### Deploy
 
-* `PFsense`
+* `PFsense` [in prog](https://github.com/StevenNaliwajka/pfSenseManager)
 * `NAS`
 * `Proxmox`
 
 ### Sensor
 
-* `GWS5000`
-* `Moisture`
+* `GWS5000` [Finished but not parced](https://github.com/StevenNaliwajka/KSU-OfficeNode)
+* `Moisture` [Finished but not parced](https://github.com/StevenNaliwajka/KSU-TowerNode)
 * `Atmosphere`
 
 ### Common
 
-* `Setup`
+* `Setup` [HL-Common-Setup](https://github.com/StevenNaliwajka/HL-Common-Setup)
 * `Health`
 * `Auth`
+* `DataLoader` [DoneSomethingSimilar](https://github.com/StevenNaliwajka/KSU-AnalysisNode)
 
 ### Runtime
 
