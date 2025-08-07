@@ -176,18 +176,4 @@ These can be passed to customize HL behavior during setup:
 ## Contributing
 
 Each module is stored in its own repository. Contributions can be made to any module,
-but they must conform to the manifest structure and hook interface defined by HL. You can scaffold new modules using:
-##### NOT CONFIRMED WIP
-```bash
-stackctl create-module MyNewModule --category=Sensor
-```
-
----
-
-Let me know if you'd like:
-
-* An internal-only `README.template.md` for submodules
-* A CI badge section
-* A separate `/docs/` folder structure with deeper technical guides for each piece
-
-This version is ready to serve as your top-level HL README.
+but they must conform to the manifest structure and hook interface defined by HL.
