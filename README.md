@@ -1,9 +1,11 @@
-
 # HomeLab(HL)
 
 *A modular infrastructure framework for scalable, composable system orchestration.*
 
 ----
+
+setup.exe can be compiled by ./hl/ exe compiler when i find it.
+
 
 ## HL as a Central Orchestrator
 

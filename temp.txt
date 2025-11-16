@@ -1,0 +1,9 @@
+## Project package manager
+## The pattern.
+
+## All code written goes into this pattern.
+
+## Thought of as bite sized pieces.
+## No standard is perfect.
+
+## Some attempt has to be made upfront to agree.
